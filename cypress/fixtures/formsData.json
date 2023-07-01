@@ -1,0 +1,17 @@
+{
+    "firstName": "Gerimedica",
+    "lastName": "BV",
+    "emailId": "test@test.com",
+    "gender": "Male",
+    "userNumber": "0123456789",
+    "date": "15",
+    "month": "January",
+    "year": "1990",
+    "subject": "Cypress Assignment",
+    "hobby": "Reading",
+    "image": "G_logo.png",
+    "address": "Netherlands",
+    "state": "NCR",
+    "city": "Delhi",
+    "thanksMsg": "Thanks for submitting the form"
+}
